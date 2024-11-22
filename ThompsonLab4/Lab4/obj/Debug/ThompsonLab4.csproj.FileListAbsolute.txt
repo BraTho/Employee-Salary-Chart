@@ -1,0 +1,10 @@
+C:\Users\Brady Thompson\Documents\OOP\ThompsonLab4\Lab4\bin\Debug\ThompsonLab4.exe.config
+C:\Users\Brady Thompson\Documents\OOP\ThompsonLab4\Lab4\bin\Debug\ThompsonLab4.exe
+C:\Users\Brady Thompson\Documents\OOP\ThompsonLab4\Lab4\bin\Debug\ThompsonLab4.pdb
+C:\Users\Brady Thompson\Documents\OOP\ThompsonLab4\Lab4\obj\Debug\ThompsonLab4.csproj.AssemblyReference.cache
+C:\Users\Brady Thompson\Documents\OOP\ThompsonLab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\Brady Thompson\Documents\OOP\ThompsonLab4\Lab4\obj\Debug\ThompsonLab4.Properties.Resources.resources
+C:\Users\Brady Thompson\Documents\OOP\ThompsonLab4\Lab4\obj\Debug\ThompsonLab4.csproj.GenerateResource.cache
+C:\Users\Brady Thompson\Documents\OOP\ThompsonLab4\Lab4\obj\Debug\ThompsonLab4.csproj.CoreCompileInputs.cache
+C:\Users\Brady Thompson\Documents\OOP\ThompsonLab4\Lab4\obj\Debug\ThompsonLab4.exe
+C:\Users\Brady Thompson\Documents\OOP\ThompsonLab4\Lab4\obj\Debug\ThompsonLab4.pdb
